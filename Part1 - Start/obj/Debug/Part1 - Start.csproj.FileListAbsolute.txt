@@ -1,0 +1,17 @@
+D:\C#\_4sem_practice\Part1 - Start\bin\Debug\Part1 - Start.exe.config
+D:\C#\_4sem_practice\Part1 - Start\bin\Debug\Part1 - Start.exe
+D:\C#\_4sem_practice\Part1 - Start\bin\Debug\Part1 - Start.pdb
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1 - Start.csprojAssemblyReference.cache
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1___Start.Form1.resources
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1___Start.Properties.Resources.resources
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1 - Start.csproj.GenerateResource.cache
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1 - Start.csproj.CoreCompileInputs.cache
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1 - Start.exe
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1 - Start.pdb
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1___Start.Form3.resources
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1___Start.Form32.resources
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1___Start.Form33.resources
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1___Start.Form4.resources
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1___Start.Form51.resources
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1___Start.Form54.resources
+D:\C#\_4sem_practice\Part1 - Start\obj\Debug\Part1___Start.Form6.resources

@@ -1,0 +1,10 @@
+D:\C#\_4sem_practice\Part3\bin\Debug\Part3.exe.config
+D:\C#\_4sem_practice\Part3\bin\Debug\Part3.exe
+D:\C#\_4sem_practice\Part3\bin\Debug\Part3.pdb
+D:\C#\_4sem_practice\Part3\obj\Debug\Part3.csprojAssemblyReference.cache
+D:\C#\_4sem_practice\Part3\obj\Debug\Part3.Form1.resources
+D:\C#\_4sem_practice\Part3\obj\Debug\Part3.Properties.Resources.resources
+D:\C#\_4sem_practice\Part3\obj\Debug\Part3.csproj.GenerateResource.cache
+D:\C#\_4sem_practice\Part3\obj\Debug\Part3.csproj.CoreCompileInputs.cache
+D:\C#\_4sem_practice\Part3\obj\Debug\Part3.exe
+D:\C#\_4sem_practice\Part3\obj\Debug\Part3.pdb
